@@ -23,7 +23,7 @@ Aşağıda kutucuk (checkbox) ile gösterilen maddelerden en az birini seçtiği
 
 ### Buffer Pool
 
-- []  Veritabanları, Sık kullanılan sayfaları bellekte (RAM) kopyalar mı (caching) ?
+- [ ]  Veritabanları, Sık kullanılan sayfaları bellekte (RAM) kopyalar mı (caching) ?
 
 - [ ]  LRU / CLOCK gibi algoritmaları
 - [X]  Diske yapılan I/O nasıl minimize ederler?
