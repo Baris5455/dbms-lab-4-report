@@ -39,7 +39,7 @@ Aşağıda kutucuk (checkbox) ile gösterilen maddelerden en az birini seçtiği
 
 DB diske yazarken:
 
-- [YAPILABİLİR]  WAL (Write Ahead Log) İlkesi
+- [X]  WAL (Write Ahead Log) İlkesi
 - [ ]  Log disk (fsync vs write) sistem çağrıları farkı
 
 ---
