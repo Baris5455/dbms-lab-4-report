@@ -32,7 +32,7 @@ Aşağıda kutucuk (checkbox) ile gösterilen maddelerden en az birini seçtiği
 
 - [X]  B+ Tree Veri Yapıları VT' lerde nasıl kullanılır?
 - [ ]  VT' lerde hangi veri yapıları hangi amaçlarla kullanılır?
-- [X]  Clustered vs Non-Clustered Index Kavramı
+- [ ]  Clustered vs Non-Clustered Index Kavramı
 - [ ]  InnoDB satırı diskte nasıl durur?
 - [ ]  LSM-tree (LevelDB, RocksDB) farkı
 - [ ]  PostgreSQL heap + index ayrımı
